@@ -12,3 +12,4 @@ placing in the staging area
 keeping it in the working directory
 text added to test new branch
 disabling fastforward merges
+adding text for rebasing example
