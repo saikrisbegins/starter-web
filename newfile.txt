@@ -1,1 +1,2 @@
 dummy text file to test git ls-files if it shows when it is a new file
+dasa ignoringfile.txt
